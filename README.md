@@ -31,3 +31,4 @@ Provide actionable suggestions to assist users in daily activities.
 * Google Generative AI
 * Tesseract OCR
 * Pyttsx3
+
